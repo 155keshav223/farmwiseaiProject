@@ -1,0 +1,18 @@
+
+
+.add-field-form {
+    max-width: 600px; /* Increased width */
+    margin: auto;
+    padding: 40px; /* Increased padding for more space */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Center content */
+  }
+  .field-form {
+    margin-top: 20px;
+    text-align: left; /* Align form fields to the left */
+  }
+  
+  /* Add more styles as needed */
+  
